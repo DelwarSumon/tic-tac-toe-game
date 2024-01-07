@@ -1,0 +1,50 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+}
+#game-board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-gap: 5px;
+  width: 315px;
+  margin: 0 auto;
+}
+.cell {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+#result-modal {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  z-index: 999;
+  border-radius: 5px;
+  text-align: center;
+}
+#reset-game{
+  background: #E91E63;
+  border: 0px;
+  outline: 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: #fff;
+}
+.cell.X{
+  background: #3f51b5db;
+  color: #fff;
+}
+.cell.O{
+  background: #f44336e0;
+  color: #fff;
+}
