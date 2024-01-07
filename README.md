@@ -28,7 +28,6 @@ Welcome to the Tic-Tac-Toe game! This simple web-based game allows users to play
     └───css
         └───popup.css
     └───js
-        |   math.js
         └───popup.js
     └───images
         └───icon.png
