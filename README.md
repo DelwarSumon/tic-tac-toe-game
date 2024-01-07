@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/DelwarSumon/tic-tac-toe-game"><img src="https://github.com/DelwarSumon/tic-tac-toe-game/blob/main/assets/images/readme.jpg?raw=true" style="width:150px; height:auto;"></a></p>
+<p align="center"><a href="https://github.com/DelwarSumon/tic-tac-toe-game"><img src="https://github.com/DelwarSumon/tic-tac-toe-game/blob/main/assets/images/readme.jpg?raw=true" ></a></p>
 
 ## Getting Started with Tic-Tac-Toe Game Extension for Google Chrome  
 
