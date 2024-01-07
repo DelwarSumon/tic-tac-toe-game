@@ -42,5 +42,7 @@ Welcome to the Tic-Tac-Toe game! This simple web-based game allows users to play
 
 <img src="https://github.com/DelwarSumon/tic-tac-toe-game/blob/main/assets/images/extension.png?raw=true">
 
-**Have FUN**
+**Have FUN !!!**
+
+**Programmer: A machine that turns coffee into code.** *– Anonymous*
 
